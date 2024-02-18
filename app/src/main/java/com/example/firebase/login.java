@@ -3,8 +3,11 @@ package com.example.firebase;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.widget.Button;
 
 public class login extends AppCompatActivity {
+
+    Button Login;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
