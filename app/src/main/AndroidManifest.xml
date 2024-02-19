@@ -15,6 +15,9 @@
         android:theme="@style/Theme.Firebase"
         tools:targetApi="31">
         <activity
+            android:name=".next1"
+            android:exported="false" />
+        <activity
             android:name=".next"
             android:exported="false" />
         <activity
