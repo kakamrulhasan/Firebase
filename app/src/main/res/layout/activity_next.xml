@@ -27,6 +27,12 @@
         android:text="ADD"
         android:id="@+id/add_id"
         />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="see"
+        android:id="@+id/see_id"
+        />
 
 
 </LinearLayout>
